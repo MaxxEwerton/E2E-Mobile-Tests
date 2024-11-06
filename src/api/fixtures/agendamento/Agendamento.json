@@ -1,0 +1,26 @@
+{
+  "package": false,
+  "paymentMethod": "STORE",
+  "channel": "APP",
+  "store": {
+    "cnpj": "18328118000109"
+  },
+  "attendances": [
+    {
+      "date": 1714746600,
+      "pet": {
+        "uuid": "6dd8965a-87c6-4edf-b14e-976f344f8b0b"
+      },
+      "professional": {
+        "id": 3928,
+        "specialtyId": 0
+      },
+      "services": [
+        {
+            "id": 3061,
+            "packageNumber": 0
+        }
+      ]
+    }
+  ]
+}

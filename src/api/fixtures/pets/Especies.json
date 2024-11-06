@@ -1,0 +1,90 @@
+[
+    {
+        "uuid": "0b31dd6a-0c3a-4a2e-87a2-805415bf7716",
+        "name": "Cachorro",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Dog.png",
+        "externalId": 1,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Dog.png",
+        "backgroundColorCode": "#E8604B",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": [
+            {
+                "uuid": "62df2cf6-7cd5-4fe3-b4bd-7ba65980bd6f",
+                "name": "Veterinário"
+            },
+            {
+                "uuid": "3c3505ab-5f3e-46cf-a907-c7c33f3a25c9",
+                "name": "Estética"
+            }
+        ]
+    },
+    {
+        "uuid": "d448bdb6-59f6-4805-b237-96202c853417",
+        "name": "Gato",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Cat.png",
+        "externalId": 2,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Cat.png",
+        "backgroundColorCode": "#D19F72",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": [
+            {
+                "uuid": "62df2cf6-7cd5-4fe3-b4bd-7ba65980bd6f",
+                "name": "Veterinário"
+            },
+            {
+                "uuid": "3c3505ab-5f3e-46cf-a907-c7c33f3a25c9",
+                "name": "Estética"
+            }
+        ]
+    },
+    {
+        "uuid": "b8d33309-a304-4ec3-9d07-780531f38f7e",
+        "name": "Peixe",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Fish.png",
+        "externalId": 3,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Fish.png",
+        "backgroundColorCode": "#8E7FAE",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": []
+    },
+    {
+        "uuid": "0b81827e-089f-48ec-bff0-00bbe0d0b973",
+        "name": "Ave",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Bird.png",
+        "externalId": 4,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Bird.png",
+        "backgroundColorCode": "#DD6288",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": []
+    },
+    {
+        "uuid": "d39816bb-c392-46d1-b947-52dceba44558",
+        "name": "Roedor",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Rat.png",
+        "externalId": 5,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Rat.png",
+        "backgroundColorCode": "#8E9CA6",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": []
+    },
+    {
+        "uuid": "8efb8f46-2175-4607-aae8-e6a13451dc69",
+        "name": "Coelho",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Rabbit.png",
+        "externalId": 6,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Rabbit.png",
+        "backgroundColorCode": "#72BAD1",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": []
+    },
+    {
+        "uuid": "732656af-a21b-4798-94af-8ddd5db07fb2",
+        "name": "Réptil",
+        "icon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-color/Reptil.png",
+        "externalId": 7,
+        "bwIcon": "https://petz-static-file-dev.s3.amazonaws.com/pet-backend/pets-pb/Reptil.png",
+        "backgroundColorCode": "#71B790",
+        "opacityColor": 0.32,
+        "supportedBusinessLine": []
+    }
+]

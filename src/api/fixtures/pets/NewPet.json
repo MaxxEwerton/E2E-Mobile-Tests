@@ -1,0 +1,16 @@
+{
+    "birthday": "2015-06-25T19:19:57.133Z",
+    "breedUuid": "bc7186d9-95dd-4208-99d1-906a7005fdea",
+    "castrated": false,
+    "color": "preto cinza",
+    "customerUuid": "9956a6fa-37b9-47cb-a5ae-eea7cd93c56e",
+    "exactBirthday": true,
+    "gender": "macho",
+    "healthPlanDocument": "0123456789",
+    "microchip": null,
+    "name": "Nino",
+    "observation": "observação teste para pet",
+    "rga": "012345",
+    "speciesUuid": "0b31dd6a-0c3a-4a2e-87a2-805415bf7716",
+    "weight": 1.7
+  }
